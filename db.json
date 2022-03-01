@@ -2,6 +2,17 @@
   "user": {
      "id": 3,
      "firstName": "DouDou",
-    "lastName": "Cute"
-  }
+     "lastName": "Cute"
+  },
+  "todos": {
+    "1": {
+       "uuid": "1",
+       "name": "eat",
+       "completed": true
+    },
+    "2": {
+       "uuid": "2",
+       "name": "sleep",
+       "completed": false
+    }
 }
