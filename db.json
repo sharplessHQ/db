@@ -8,12 +8,12 @@
     1: {
       uuid: '1',
       name: 'eat',
-      completed: true,
+      completed: true
     },
     2: {
       uuid: '2',
       name: 'sleep',
-      completed: false,
-    },
+      completed: false
+    }
   }
 }
